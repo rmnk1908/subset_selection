@@ -4,7 +4,7 @@ This repository contains Python programs that solve the **Subset Sum Problem** u
 
 ---
 
-## 🧩 Problem Statements
+##  Problem Statements
 
 ### 1. Fixed Subset Size = 5
 
@@ -25,7 +25,7 @@ This repository contains Python programs that solve the **Subset Sum Problem** u
 
 ---
 
-## 🚀 How It Works
+##  How It Works
 
 - The algorithm uses `random.sample()` to generate subsets from the original set.
 - It performs a specified number of iterations (e.g., 1000) to explore different combinations.
@@ -34,17 +34,9 @@ This repository contains Python programs that solve the **Subset Sum Problem** u
 
 ---
 
-## 📁 Files
+##  Sample Output
 
-- `subset_fixed.py` – Program to find zero-sum subsets of size 5.
-- `subset_variable.py` – Program to find zero-sum subsets of size 3 to 6.
-- `README.md` – Project documentation.
-
----
-
-## 🧪 Sample Output
-
-### ✅ Fixed Subset Size (5)
+###  Fixed Subset Size (5)
 ```text
 (-7, -4, 6, 3, 2)
 (-5, 11, -8, 6, -4)
